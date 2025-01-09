@@ -924,7 +924,7 @@ footer .Contact > .icons {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  gap: 20px;
+  gap: 40px;
 }
 
 footer .Contact > .Detail {
@@ -1758,7 +1758,7 @@ footer label textarea::placeholder {
   }
 
   footer .Contact > .icons {
-    gap: 0px;
+    gap: 20px;
   }
 
   footer .Contact > .Detail {
